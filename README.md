@@ -4,8 +4,7 @@
 
 Me chamo Lauro Figueiredo, tenho 23 anos e sou natural de Recife/PE.
 Formado em Ciência da Computação na Uninassau Graças. 
-Concluí a "Formação Acelerada em Programação" pela SOFTEX. 
- Sou curioso e criativo e apaixonado em tecnologia e design.
+Concluí a "Formação Acelerada em Programação" pela SOFTEX. Sou curioso e criativo e apaixonado em tecnologia e design.
 
  ---
 
